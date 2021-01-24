@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 gemspec
 
-gem 'rake', '0.9.2.2'
+gem 'rake', '12.3.3'
 
 group :development do
   gem 'rake_commit', '0.12.0'
